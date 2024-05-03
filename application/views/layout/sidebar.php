@@ -1,0 +1,1 @@
+<?php $this->load->view("widget/recent_post.php") ?>
